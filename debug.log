@@ -1,0 +1,7 @@
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Writing database to /home/anon/Portfolio/An0u.github.io/db.json","time":"2019-04-22T17:43:37.932Z","v":0}
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Hexo version: \u001b[35m3.8.0\u001b[39m","time":"2019-04-22T17:43:37.982Z","v":0}
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Working directory: \u001b[35m~/Portfolio/An0u.github.io/\u001b[39m","time":"2019-04-22T17:43:37.982Z","v":0}
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Config loaded: \u001b[35m~/Portfolio/An0u.github.io/_config.yml\u001b[39m","time":"2019-04-22T17:43:38.196Z","v":0}
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-local-image\u001b[39m","time":"2019-04-22T17:43:38.215Z","v":0}
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2019-04-22T17:43:38.264Z","v":0}
+{"name":"hexo","hostname":"parrot","pid":20774,"level":20,"msg":"Database saved","time":"2019-04-22T17:43:38.277Z","v":0}
