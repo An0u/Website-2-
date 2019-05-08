@@ -7,6 +7,8 @@ photos:
 - /images/cbch.jpg
 - /images/cbch3.jpg
 - /images/cbch2.jpg
+categories:
+- [Portfolio]
 ---
 {% asset_img cbch3.jpg This is an example image %}
 {% asset_img cbch2.jpg This is an example image %}

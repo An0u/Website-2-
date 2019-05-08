@@ -1,14 +1,13 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-
-# Site
+#site
 title: An0u
-subtitle: Paperwork Wing
+subtitle: Paperwork Wings
 description:
 keywords:
 author: An0u
-language: English, Spanish , French
+language: en, es, fr 
 timezone:
 
 # URL
@@ -72,8 +71,9 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins
+
 ## Themes: https://hexo.io/themes/
-theme: magnetic
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -82,3 +82,23 @@ deploy:
   repo: https://github.com/An0u/An0u.github.io
   branch: published
   message: "Docs updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
+
+#JSON
+jsonContent:
+ meta: false
+ pages: false
+ posts:
+ title: true
+ date: true
+ path: true
+ text: false
+ raw: false
+ content: false
+ slug: false
+ updated: false
+ comments: false
+ link: false
+ permalink: true
+ excerpt: true
+ categories: true
+ tags: true 
